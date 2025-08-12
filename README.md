@@ -2,8 +2,6 @@
 
 A low-level networking client, built from scratch in Python, that performs an iterative DNS resolution for a given hostname and then uses the resulting IP address to make a basic HTTP GET request. This project was developed to demonstrate a fundamental understanding of core internet protocols without the use of simplifying libraries.
 
-The official project specification from the UC Davis Computer Networks (ECS 152A) course is included in this repository (`ECS_152A_Project_2.pdf`) to provide full context on the rigorous requirements.
-
 ## Key Features
 
 *   **Packet Crafting from Scratch:** DNS query packets are manually constructed by packing header and question fields into byte-level representations, ensuring 100% compliance with the relevant sections of RFC 1035.

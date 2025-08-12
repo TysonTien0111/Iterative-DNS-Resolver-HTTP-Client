@@ -13,8 +13,8 @@ A low-level networking client, built from scratch in Python, that performs an it
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/TysonTien0111/DNS-Resolver-from-Scratch.git
-    cd DNS-Resolver-from-Scratch
+    git clone https://github.com/TysonTien0111/Iterative-DNS-Resolver-HTTP-Client.git
+    cd Iterative-DNS-Resolver-HTTP-Client
     ```
 
 2.  **Execute the client:**
